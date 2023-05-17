@@ -1,0 +1,9 @@
+node_modules
+# Keep environment variables out of version control
+.env
+dist
+.idea
+src/config
+src/__tests__
+src/handlers/__tests__
+
